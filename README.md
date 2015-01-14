@@ -1,4 +1,4 @@
-# Renewable Energy, Deregulation, and Residential Electricity Prices
+# WIP: Renewable Energy, Deregulation, and Residential Electricity Prices
 
 <p>The first regression analysis I ever carried out was for a Seminar in Applied Economics at Rutgers.  I was (and still am) intrigued by the energy industry - from the international economics to implications on auxiliary industries and markets - I love eating up anything energy-related</p>
 
